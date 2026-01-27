@@ -40,7 +40,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 - [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-- [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
@@ -60,7 +59,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
-- [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
 - [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 - [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
@@ -77,18 +75,11 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions.
-- [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
 - [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 - [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
-
-## Data
-
-*Tools for working with data.*
-
-- [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary.
 
 ## For Developers
 
